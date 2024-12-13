@@ -15,6 +15,7 @@ Here are some of the key skills and technologies I have worked with:
 
 ## 📄 How to Use
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/yourusername/portfolio.git
    ```
@@ -22,6 +23,6 @@ Here are some of the key skills and technologies I have worked with:
 3. **Follow the Instructions**: Installation instructions for individual projects are included in their respective README files.
 
 ## 📬 Contact
-If you have any questions, suggestions, or opportunities you'd like to discuss, feel free to reach out to me via paulamagdy665@gmail.com or connect with me on [\[LinkedIn/Twitter/etc.\]](https://www.linkedin.com/in/paula-magdy/).
+If you have any questions, suggestions, or opportunities you'd like to discuss, feel free to reach out to me via paulamagdy665@gmail.com or connect with me on [\[LinkedIn\]](https://www.linkedin.com/in/paula-magdy/).
 
 Thank you for visiting my portfolio. I hope you find my work inspiring and impactful! 😊
