@@ -8,7 +8,7 @@ I'm looking forward to working and growing while helping you reach a wider audie
 ## 🛠️ Skills & Technologies
 Here are some of the key skills and technologies I have worked with:
 
-- **Frontend**: [HTML, CSS, JavaScript, React, Redux, JQuery, Tailwind, Bootstrap]
+- **Frontend**: [HTML, CSS, JavaScript, React, Redux, Tailwind, Bootstrap]
 - **Backend**: [Node.js, Express, Django]
 - **Databases**: [MySQL, PostgreSQL, MongoDB]
 - **Tools & Platforms**: [Docker, Git, cloud platforms like AWS]
@@ -17,12 +17,12 @@ Here are some of the key skills and technologies I have worked with:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/PaulaMagdi0/Portfolio-Project.git
    ```
 2. **Navigate the Projects**: Each project is self-contained within its own directory. Visit each folder to learn more.
 3. **Follow the Instructions**: Installation instructions for individual projects are included in their respective README files.
 
 ## 📬 Contact
-If you have any questions, suggestions, or opportunities you'd like to discuss, feel free to reach out to me via paulamagdy665@gmail.com or connect with me on [\[LinkedIn\]](https://www.linkedin.com/in/paula-magdy/).
+If you have any questions, suggestions, or opportunities you'd like to discuss, feel free to reach out to me via [\[Gmail\]](paulamagdy665@gmail.com)or connect with me on [\[LinkedIn\]](https://www.linkedin.com/in/paula-magdy/).
 
 Thank you for visiting my portfolio. I hope you find my work inspiring and impactful! 😊
