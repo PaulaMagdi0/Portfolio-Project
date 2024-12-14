@@ -20,9 +20,8 @@ p {
   
 /* TRANSITION */
   
-a,
-.btn {
-    nsition: all 300ms ease;
+a, .btn {
+    transition: all 500ms ease;
 }
 
 /* DESKTOP NAV */
